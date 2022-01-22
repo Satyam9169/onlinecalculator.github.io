@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.calculator{
+    text-align: center;
+    margin-top: 150px;
+}
+table{
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(29, 223, 29);
+    margin-top: 50px;
+}
+input{
+    font-size: 25px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    height: 35px;
+}
+button{
+    font-size: 40px;
+    background-color: black;
+    color: blanchedalmond;
+    width: 61px;
+    height: 61px;
+    padding: 0px 5px;
+    margin: 4px 10px;
+    border-radius: 4px;
+}
+.btn1{
+    background-color:rgb(172, 100, 13);
+}
+.btn2{
+    background-color:#db12db;
+}
+.btn3{
+    background-color: #76aabf;
+}
+.btn4{
+    background-color:red;
+}
+.btn5{
+    background-color:green;
+}
